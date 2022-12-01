@@ -1,1 +1,3 @@
-#!/bin/bash id -nG
+#!bin/bash
+cd
+
